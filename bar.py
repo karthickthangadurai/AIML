@@ -8,3 +8,6 @@ def total(a,b):
 print(total(x,y))
 print(y)
 print(x)
+
+z = 100
+print(z)
