@@ -6,4 +6,5 @@ def total(a,b):
     return c
 
 print(total(x,y))
+print(y)
 print(x)
