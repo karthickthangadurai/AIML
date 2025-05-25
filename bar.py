@@ -1,13 +1,12 @@
-x = 10
-y = 5
+# x = 10
+# y  = 20 
 
-def total(a,b):
-    c = a + b
-    return c
+# print(x)
 
-print(total(x,y))
-print(y)
-print(x)
+# z = 90
 
-z = 100
-print(z)
+# print(z)
+
+nominee = 'Sachin Tendulkar'
+
+print(nominee[::-1]) #Sh nlr
